@@ -71,7 +71,12 @@ This project presents the simulation and analysis of an **off-grid solar-powered
 ## 📸 Screenshots
 
 ### 🧱 Block Diagram  
-![Block Diagram](media/block-diagram.png)
+![Block Diagram](media/block-diagram.jpg)
+![Block Diagram](media/MPPT-controller.jpg)
+![Block Diagram](media/EV-controller.jpg)
+![Block Diagram](media/4000W-pv-system.jpg)
+![Block Diagram](media/ev-standards.jpg)
+![Block Diagram](media/Types_of_Charging.jpg)
 
 ### 📉 Charging Behavior  
 ![Waveform Results](media/waveform-results.png)
