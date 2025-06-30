@@ -79,7 +79,7 @@ This project presents the simulation and analysis of an **off-grid solar-powered
 ![Block Diagram](media/Types_of_Charging.jpg)
 
 ### 📉 Charging Behavior  
-![Waveform Results](media/waveform-results.png)
+![Waveform Results](media/waveform-results.jpg)
 
 ---
 
