@@ -129,8 +129,7 @@ This project is supported by a literature review provided in the `Report.pdf`, w
 - **Om Tambe** – IEC2023125  
 - **Abhinav Kumar** – IEC2023119  
 - **Vishal Pandey** – IEC2023114
-- **Harsh Markam** – IEC2023116
-- **Mohit Rathwa** – IEC2023114
+
  
 
 
